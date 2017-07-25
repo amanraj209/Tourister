@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tourister</string>
+    <string name="pick_place">Pick Place</string>
+    <string name="option_get_place">Get Places</string>
+    <string name="favoutite_places">Favourite Places</string>
+    <string name="refresh">Refresh</string>
+    <string name="share">Share</string>
+</resources>
